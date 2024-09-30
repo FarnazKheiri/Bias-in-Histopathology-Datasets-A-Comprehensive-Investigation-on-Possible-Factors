@@ -16,3 +16,5 @@ This section presents a Python script designed to filter and process TCGA featur
 - The script reads a CSV file (`patch_info.csv`) containing metadata about each patch, including details such as the **medical center**, **cancer type**, and **slide name**.
 - The dataset is filtered based on the type of data (train, test, or validation), ensuring that only slides from medical centers with more than 40 contributions are included.
 
+## **CaseStudy1: Mutual Information and Heatmap Analysis**
+
