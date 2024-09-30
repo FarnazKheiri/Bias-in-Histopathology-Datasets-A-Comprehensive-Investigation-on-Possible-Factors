@@ -18,3 +18,5 @@ This section presents a Python script designed to filter and process TCGA featur
 
 ## **CaseStudy1: Mutual Information and Heatmap Analysis**
 
+This case study focuses on calculating the Mutual Information (MI) between cancer types and medical centers and visualizing the data using a heatmap to highlight patterns or relationships between various factors.
+
