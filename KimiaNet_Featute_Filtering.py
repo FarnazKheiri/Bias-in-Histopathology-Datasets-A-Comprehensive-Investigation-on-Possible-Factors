@@ -51,6 +51,6 @@ def KimiaNet_Features_Filtering(set_type="train"):
 
 
 # Example usage
-x_train, y_train_center, y_train_patch_disease_type, train_patch_keys = KimiaNet_Features_Filtering("train")
+feature, y_feature_center, y_feature_cancer= KimiaNet_Features_Filtering("train")
 
 x_data, x_data_center, x_data_cancer =  KimiaFeatures_dataFilitring (data_set_type,path)
