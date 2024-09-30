@@ -6,5 +6,6 @@ This section contains a Python script to filter training, testing, or validation
   ### Code Description
    #### Parameters:
     data_set_type: Specifies the type of dataset to filter(train, test, validation)
+    path: Path to the directory containing the KimiaNet feature files in .pickle format.
     
     
