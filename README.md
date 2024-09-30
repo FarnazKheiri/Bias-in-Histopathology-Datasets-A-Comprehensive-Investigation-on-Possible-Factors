@@ -25,7 +25,7 @@ This case study focuses on calculating the Mutual Information (MI) between cance
    This Python script computes the Mutual Information (MI) between cancer types and medical centers based on probability data from `probabiities.csv`
 
 #### 2. heatmap.py ####
-   This Python script generates a clustered heatmap using the data from `supplementary_material.csv.` The heatmap visualizes relationships between cancer types and medical centers, offering insight into the underlying patterns.
+   This Python script generates a clustered heatmap using the data from `supplementary_material.csv`. The heatmap visualizes relationships between cancer types and medical centers, offering insight into the underlying patterns.
 
 
 
