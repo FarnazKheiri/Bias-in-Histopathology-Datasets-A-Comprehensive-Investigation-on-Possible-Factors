@@ -1,0 +1,276 @@
+,P(cancer),P(center),P(cancer).P(center),"P(cancer,center)",P(cancer|center),P(center|cancer)
+"('Lung Adenocarcinoma', 'Roswell Park')",0.1417,0.0472,0.00668824,0.0064,0.1365,0.0455
+"('Lung Adenocarcinoma', 'Asterand')",0.1417,0.0665,0.00942305,0.0116,0.1746,0.0819
+"('Lung Adenocarcinoma', 'Fox Chase')",0.1417,0.0082,0.00116194,0.0015,0.1817,0.0105
+"('Lung Adenocarcinoma', 'Indivumed')",0.1417,0.0351,0.00497367,0.0101,0.2864,0.0709
+"('Lung Adenocarcinoma', 'BLN - Baylor')",0.1417,0.0147,0.00208299,0.0056,0.3829,0.0397
+"('Lung Adenocarcinoma', 'UNC')",0.1417,0.0108,0.00153036,0.0019,0.1718,0.0131
+"('Lung Adenocarcinoma', 'Cureline')",0.1417,0.01,0.001417,0.0015,0.149,0.0105
+"('Lung Adenocarcinoma', 'University of Pittsburgh')",0.1417,0.0743,0.01052831,0.0158,0.2121,0.1112
+"('Lung Adenocarcinoma', 'International Genomics Consortium')",0.1417,0.0295,0.00418015,0.0116,0.3922,0.0816
+"('Lung Adenocarcinoma', 'Prince Charles Hospital')",0.1417,0.0588,0.00833196,0.0268,0.4551,0.1889
+"('Lung Adenocarcinoma', 'Christiana Healthcare')",0.1417,0.0094,0.00133198,0.0039,0.4137,0.0274
+"('Lung Adenocarcinoma', 'Johns Hopkins')",0.1417,0.0983,0.01392911,0.0438,0.4453,0.3089
+"('Lung Adenocarcinoma', 'University of Miami')",0.1417,0.0111,0.00157287,0.0014,0.1245,0.0098
+"('Rectum Adenocarcinoma', 'Harvard')",0.0084,0.0103,8.65E-05,0.0005,0.0452,0.0555
+"('Rectum Adenocarcinoma', 'Roswell Park')",0.0084,0.0472,0.00039648,0.0003,0.0064,0.0362
+"('Rectum Adenocarcinoma', 'Asterand')",0.0084,0.0665,0.0005586,0.0005,0.0074,0.0582
+"('Rectum Adenocarcinoma', 'Indivumed')",0.0084,0.0351,0.00029484,0.0041,0.1166,0.4872
+"('Rectum Adenocarcinoma', 'Cureline')",0.0084,0.01,8.40E-05,0.0001,0.0131,0.0156
+"('Rectum Adenocarcinoma', 'International Genomics Consortium')",0.0084,0.0295,0.0002478,0.0002,0.0065,0.0229
+"('Rectum Adenocarcinoma', 'Christiana Healthcare')",0.0084,0.0094,7.90E-05,0.0007,0.0741,0.083
+"('Rectum Adenocarcinoma', 'University of Michigan')",0.0084,0.0475,0.000399,0.0007,0.0142,0.0802
+"('Rectum Adenocarcinoma', 'MSKCC')",0.0084,0.0542,0.00045528,0.0013,0.0233,0.1503
+"('Esophageal Carcinoma', 'MD Anderson')",0.0129,0.0728,0.00093912,0.0001,0.0011,0.006
+"('Esophageal Carcinoma', 'Asterand')",0.0129,0.0665,0.00085785,0.001,0.0153,0.0788
+"('Esophageal Carcinoma', 'ILSBIO')",0.0129,0.0158,0.00020382,0.0025,0.1613,0.1976
+"('Esophageal Carcinoma', 'Barretos Cancer Hospital')",0.0129,0.0107,0.00013803,0.002,0.1875,0.1555
+"('Esophageal Carcinoma', 'Cureline')",0.0129,0.01,0.000129,0.0002,0.0162,0.0125
+"('Esophageal Carcinoma', 'Emory University')",0.0129,0.0091,0.00011739,0.0005,0.0512,0.0361
+"('Esophageal Carcinoma', 'University Health Network')",0.0129,0.0108,0.00013932,0.0017,0.1554,0.1301
+"('Esophageal Carcinoma', 'University of Michigan')",0.0129,0.0475,0.00061275,0.0034,0.071,0.2614
+"('Esophageal Carcinoma', 'Erasmus MC')",0.0129,0.0241,0.00031089,0.0016,0.0673,0.1256
+"('Kidney Renal Papillary Cell Carcinoma', 'MD Anderson')",0.0193,0.0728,0.00140504,0.0011,0.0151,0.0571
+"('Kidney Renal Papillary Cell Carcinoma', 'Roswell Park')",0.0193,0.0472,0.00091096,0.0021,0.0436,0.1065
+"('Kidney Renal Papillary Cell Carcinoma', 'Asterand')",0.0193,0.0665,0.00128345,0.0009,0.0128,0.0441
+"('Kidney Renal Papillary Cell Carcinoma', 'Fox Chase')",0.0193,0.0082,0.00015826,0.0007,0.0887,0.0377
+"('Kidney Renal Papillary Cell Carcinoma', 'ILSBIO')",0.0193,0.0158,0.00030494,0.0004,0.0231,0.019
+"('Kidney Renal Papillary Cell Carcinoma', 'BLN - Baylor')",0.0193,0.0147,0.00028371,0.0017,0.1139,0.0868
+"('Kidney Renal Papillary Cell Carcinoma', 'UNC')",0.0193,0.0108,0.00020844,0.0016,0.1444,0.0808
+"('Kidney Renal Papillary Cell Carcinoma', 'University of Pittsburgh')",0.0193,0.0743,0.00143399,0.0004,0.0051,0.0195
+"('Kidney Renal Papillary Cell Carcinoma', 'International Genomics Consortium')",0.0193,0.0295,0.00056935,0.0008,0.027,0.0413
+"('Kidney Renal Papillary Cell Carcinoma', 'University of California San Francisco')",0.0193,0.0082,0.00015826,0.0019,0.2338,0.0993
+"('Kidney Renal Papillary Cell Carcinoma', 'Moffitt Cancer Center')",0.0193,0.0072,0.00013896,0.0021,0.2877,0.1073
+"('Kidney Renal Papillary Cell Carcinoma', 'Christiana Healthcare')",0.0193,0.0094,0.00018142,0.0002,0.0221,0.0108
+"('Kidney Renal Papillary Cell Carcinoma', 'MSKCC')",0.0193,0.0542,0.00104606,0.0056,0.1034,0.2904
+"('Pancreatic Adenocarcinoma', 'Asterand')",0.0076,0.0665,0.0005054,0.0006,0.0096,0.0836
+"('Pancreatic Adenocarcinoma', 'UNC')",0.0076,0.0108,8.21E-05,0.0001,0.0089,0.0127
+"('Pancreatic Adenocarcinoma', 'University of Pittsburgh')",0.0076,0.0743,0.00056468,0.0009,0.0119,0.116
+"('Pancreatic Adenocarcinoma', 'International Genomics Consortium')",0.0076,0.0295,0.0002242,0.0007,0.0241,0.0937
+"('Pancreatic Adenocarcinoma', 'Moffitt Cancer Center')",0.0076,0.0072,5.47E-05,0.0009,0.1283,0.1216
+"('Pancreatic Adenocarcinoma', 'Alberta Health Services')",0.0076,0.0101,7.68E-05,0.0043,0.43,0.5714
+"('Kidney Renal Clear Cell Carcinoma', 'Harvard')",0.0581,0.0103,0.00059843,0.0061,0.5906,0.1047
+"('Kidney Renal Clear Cell Carcinoma', 'MD Anderson')",0.0581,0.0728,0.00422968,0.0081,0.1116,0.1399
+"('Kidney Renal Clear Cell Carcinoma', 'Roswell Park')",0.0581,0.0472,0.00274232,0.0005,0.0098,0.008
+"('Kidney Renal Clear Cell Carcinoma', 'Fox Chase')",0.0581,0.0082,0.00047642,0.001,0.1211,0.0171
+"('Kidney Renal Clear Cell Carcinoma', 'BLN - Baylor')",0.0581,0.0147,0.00085407,0.0008,0.0521,0.0132
+"('Kidney Renal Clear Cell Carcinoma', 'UNC')",0.0581,0.0108,0.00062748,0.0019,0.1765,0.0328
+"('Kidney Renal Clear Cell Carcinoma', 'Cureline')",0.0581,0.01,0.000581,0.0009,0.0928,0.016
+"('Kidney Renal Clear Cell Carcinoma', 'University of Pittsburgh')",0.0581,0.0743,0.00431683,0.0158,0.2122,0.2714
+"('Kidney Renal Clear Cell Carcinoma', 'International Genomics Consortium')",0.0581,0.0295,0.00171395,0.0022,0.0762,0.0387
+"('Kidney Renal Clear Cell Carcinoma', 'Christiana Healthcare')",0.0581,0.0094,0.00054614,0.0003,0.0336,0.0054
+"('Kidney Renal Clear Cell Carcinoma', 'MSKCC')",0.0581,0.0542,0.00314902,0.0205,0.3785,0.3531
+"('Pheochromocytoma and Paraganglioma', 'Roswell Park')",0.0101,0.0472,0.00047672,0.0005,0.01,0.0465
+"('Pheochromocytoma and Paraganglioma', 'University of North Carolina')",0.0101,0.0106,0.00010706,0.0008,0.0799,0.0839
+"('Pheochromocytoma and Paraganglioma', 'University of Pittsburgh')",0.0101,0.0743,0.00075043,0.0003,0.0035,0.0255
+"('Pheochromocytoma and Paraganglioma', 'University Health Network')",0.0101,0.0108,0.00010908,0.0006,0.0595,0.0637
+"('Pheochromocytoma and Paraganglioma', 'University of Michigan')",0.0101,0.0475,0.00047975,0.0028,0.0585,0.2752
+"('Pheochromocytoma and Paraganglioma', 'Erasmus MC')",0.0101,0.0241,0.00024341,0.0037,0.1554,0.3709
+"('Pheochromocytoma and Paraganglioma', 'Medical College of Wisconsin')",0.0101,0.0071,7.17E-05,0.0013,0.1898,0.1334
+"('Head and Neck Squamous Cell Carcinoma', 'MD Anderson')",0.0238,0.0728,0.00173264,0.0137,0.1886,0.5769
+"('Head and Neck Squamous Cell Carcinoma', 'Asterand')",0.0238,0.0665,0.0015827,0.0007,0.0107,0.0299
+"('Head and Neck Squamous Cell Carcinoma', 'Fox Chase')",0.0238,0.0082,0.00019516,0.0002,0.03,0.0104
+"('Head and Neck Squamous Cell Carcinoma', 'ILSBIO')",0.0238,0.0158,0.00037604,0.0001,0.009,0.006
+"('Head and Neck Squamous Cell Carcinoma', 'Greater Poland Cancer Center')",0.0238,0.0201,0.00047838,0.0014,0.0686,0.0579
+"('Head and Neck Squamous Cell Carcinoma', 'Barretos Cancer Hospital')",0.0238,0.0107,0.00025466,0.0012,0.1141,0.0513
+"('Head and Neck Squamous Cell Carcinoma', 'UNC')",0.0238,0.0108,0.00025704,0.0015,0.1351,0.0613
+"('Head and Neck Squamous Cell Carcinoma', 'University of Pittsburgh')",0.0238,0.0743,0.00176834,0.0021,0.0289,0.0903
+"('Head and Neck Squamous Cell Carcinoma', 'International Genomics Consortium')",0.0238,0.0295,0.0007021,0.0005,0.0167,0.0207
+"('Head and Neck Squamous Cell Carcinoma', 'University of Michigan')",0.0238,0.0475,0.0011305,0.0004,0.008,0.016
+"('Head and Neck Squamous Cell Carcinoma', 'Johns Hopkins')",0.0238,0.0983,0.00233954,0.0012,0.0117,0.0485
+"('Head and Neck Squamous Cell Carcinoma', 'University of Miami')",0.0238,0.0111,0.00026418,0.0008,0.0704,0.0328
+"('Uterine Carcinosarcoma', 'Roswell Park')",0.0068,0.0472,0.00032096,0.0015,0.0313,0.2174
+"('Uterine Carcinosarcoma', 'Cedars Sinai')",0.0068,0.0097,6.60E-05,0.0024,0.2449,0.3493
+"('Uterine Carcinosarcoma', 'ILSBIO')",0.0068,0.0158,0.00010744,0.0005,0.0314,0.073
+"('Uterine Carcinosarcoma', 'University of North Carolina')",0.0068,0.0106,7.21E-05,0.0004,0.0418,0.0651
+"('Uterine Carcinosarcoma', 'University of Pittsburgh')",0.0068,0.0743,0.00050524,0.0005,0.0067,0.073
+"('Uterine Carcinosarcoma', 'MSKCC')",0.0068,0.0542,0.00036856,0.0015,0.0276,0.2197
+"('Bladder Urothelial Carcinoma', 'MD Anderson')",0.028,0.0728,0.0020384,0.0096,0.1321,0.3435
+"('Bladder Urothelial Carcinoma', 'Roswell Park')",0.028,0.0472,0.0013216,0.0003,0.0068,0.0114
+"('Bladder Urothelial Carcinoma', 'Asterand')",0.028,0.0665,0.001862,0.0021,0.0323,0.0767
+"('Bladder Urothelial Carcinoma', 'ILSBIO')",0.028,0.0158,0.0004424,0.0017,0.1077,0.0608
+"('Bladder Urothelial Carcinoma', 'Indivumed')",0.028,0.0351,0.0009828,0.0005,0.0141,0.0177
+"('Bladder Urothelial Carcinoma', 'Barretos Cancer Hospital')",0.028,0.0107,0.0002996,0.0013,0.1259,0.0481
+"('Bladder Urothelial Carcinoma', 'BLN - Baylor')",0.028,0.0147,0.0004116,0.0013,0.0893,0.0469
+"('Bladder Urothelial Carcinoma', 'UNC')",0.028,0.0108,0.0003024,0.0005,0.0438,0.0169
+"('Bladder Urothelial Carcinoma', 'University of Pittsburgh')",0.028,0.0743,0.0020804,0.0012,0.0167,0.0443
+"('Bladder Urothelial Carcinoma', 'International Genomics Consortium')",0.028,0.0295,0.000826,0.0004,0.0151,0.016
+"('Bladder Urothelial Carcinoma', 'University of California San Francisco')",0.028,0.0082,0.0002296,0.0017,0.208,0.0609
+"('Bladder Urothelial Carcinoma', 'Memorial Sloan Kettering')",0.028,0.036,0.001008,0.0046,0.1291,0.166
+"('Bladder Urothelial Carcinoma', 'Christiana Healthcare')",0.028,0.0094,0.0002632,0.0001,0.0115,0.0039
+"('Bladder Urothelial Carcinoma', 'Erasmus MC')",0.028,0.0241,0.0006748,0.0025,0.1024,0.0881
+"('Colon Adenocarcinoma', 'Harvard')",0.0245,0.0103,0.00025235,0.0011,0.105,0.0442
+"('Colon Adenocarcinoma', 'Roswell Park')",0.0245,0.0472,0.0011564,0.0019,0.0406,0.0783
+"('Colon Adenocarcinoma', 'Asterand')",0.0245,0.0665,0.00162925,0.0016,0.0239,0.0649
+"('Colon Adenocarcinoma', 'ILSBIO')",0.0245,0.0158,0.0003871,0.0005,0.0322,0.0207
+"('Colon Adenocarcinoma', 'Indivumed')",0.0245,0.0351,0.00085995,0.008,0.2269,0.3251
+"('Colon Adenocarcinoma', 'Greater Poland Cancer Center')",0.0245,0.0201,0.00049245,0.0014,0.0674,0.0553
+"('Colon Adenocarcinoma', 'BLN - Baylor')",0.0245,0.0147,0.00036015,0.001,0.0689,0.0413
+"('Colon Adenocarcinoma', 'UNC')",0.0245,0.0108,0.0002646,0.0003,0.0289,0.0127
+"('Colon Adenocarcinoma', 'Cureline')",0.0245,0.01,0.000245,0.0002,0.0169,0.0069
+"('Colon Adenocarcinoma', 'University of Pittsburgh')",0.0245,0.0743,0.00182035,0.0016,0.0213,0.0647
+"('Colon Adenocarcinoma', 'International Genomics Consortium')",0.0245,0.0295,0.00072275,0.0002,0.0084,0.0101
+"('Colon Adenocarcinoma', 'Christiana Healthcare')",0.0245,0.0094,0.0002303,0.0009,0.0909,0.0349
+"('Colon Adenocarcinoma', 'University of Michigan')",0.0245,0.0475,0.00116375,0.0012,0.0252,0.0489
+"('Colon Adenocarcinoma', 'MSKCC')",0.0245,0.0542,0.0013279,0.0047,0.086,0.1901
+"('Glioblastoma Multiforme', 'Duke')",0.0671,0.0302,0.00202642,0.0249,0.8234,0.3706
+"('Glioblastoma Multiforme', 'MD Anderson')",0.0671,0.0728,0.00488488,0.0097,0.1336,0.1449
+"('Glioblastoma Multiforme', 'Case Western')",0.0671,0.0081,0.00054351,0.0032,0.3974,0.048
+"('Glioblastoma Multiforme', 'Cedars Sinai')",0.0671,0.0097,0.00065087,0.0002,0.0214,0.0031
+"('Glioblastoma Multiforme', 'Henry Ford Hospital')",0.0671,0.0154,0.00103334,0.0149,0.9668,0.2219
+"('Glioblastoma Multiforme', 'Mayo Clinic - Rochester')",0.0671,0.0528,0.00354288,0.0016,0.0308,0.0243
+"('Glioblastoma Multiforme', 'Emory University')",0.0671,0.0091,0.00061061,0.0082,0.9012,0.1222
+"('Glioblastoma Multiforme', 'Christiana Healthcare')",0.0671,0.0094,0.00063074,0.0001,0.0106,0.0015
+"('Glioblastoma Multiforme', 'UCSF')",0.0671,0.0069,0.00046299,0.0041,0.587,0.0604
+"('Glioblastoma Multiforme', 'University of Miami')",0.0671,0.0111,0.00074481,0.0002,0.0212,0.0035
+"('Liver Hepatocellular Carcinoma', 'Roswell Park')",0.0387,0.0472,0.00182664,0.0003,0.0055,0.0067
+"('Liver Hepatocellular Carcinoma', 'Asterand')",0.0387,0.0665,0.00257355,0.0018,0.0275,0.0473
+"('Liver Hepatocellular Carcinoma', 'ILSBIO')",0.0387,0.0158,0.00061146,0.0027,0.1718,0.0701
+"('Liver Hepatocellular Carcinoma', 'Mayo Clinic - Rochester')",0.0387,0.0528,0.00204336,0.0189,0.3574,0.4876
+"('Liver Hepatocellular Carcinoma', 'BLN - Baylor')",0.0387,0.0147,0.00056889,0.0011,0.0757,0.0288
+"('Liver Hepatocellular Carcinoma', 'UNC')",0.0387,0.0108,0.00041796,0.0021,0.1936,0.054
+"('Liver Hepatocellular Carcinoma', 'Cureline')",0.0387,0.01,0.000387,0.0002,0.0169,0.0044
+"('Liver Hepatocellular Carcinoma', 'International Genomics Consortium')",0.0387,0.0295,0.00114165,0.0004,0.0134,0.0102
+"('Liver Hepatocellular Carcinoma', 'Moffitt Cancer Center')",0.0387,0.0072,0.00027864,0.0027,0.3813,0.0709
+"('Liver Hepatocellular Carcinoma', 'Emory University')",0.0387,0.0091,0.00035217,0.0002,0.0262,0.0062
+"('Liver Hepatocellular Carcinoma', 'Alberta Health Services')",0.0387,0.0101,0.00039087,0.0055,0.5417,0.1414
+"('Liver Hepatocellular Carcinoma', 'Christiana Healthcare')",0.0387,0.0094,0.00036378,0.0004,0.0401,0.0097
+"('Liver Hepatocellular Carcinoma', 'UCSF')",0.0387,0.0069,0.00026703,0.0011,0.1523,0.0272
+"('Liver Hepatocellular Carcinoma', 'Medical College of Wisconsin')",0.0387,0.0071,0.00027477,0.0014,0.1995,0.0366
+"('Cholangiocarcinoma', 'ILSBIO')",0.0048,0.0158,7.58E-05,0.0001,0.0054,0.0176
+"('Cholangiocarcinoma', 'Mayo Clinic - Rochester')",0.0048,0.0528,0.00025344,0.0027,0.0505,0.5558
+"('Cholangiocarcinoma', 'University of North Carolina')",0.0048,0.0106,5.09E-05,0.0011,0.1064,0.235
+"('Cholangiocarcinoma', 'Alberta Health Services')",0.0048,0.0101,4.85E-05,0.0003,0.0294,0.0618
+"('Cholangiocarcinoma', 'UCSF')",0.0048,0.0069,3.31E-05,0.0006,0.0926,0.1331
+"('Stomach Adenocarcinoma', 'Asterand')",0.0252,0.0665,0.0016758,0.0126,0.1898,0.5008
+"('Stomach Adenocarcinoma', 'ILSBIO')",0.0252,0.0158,0.00039816,0.0017,0.1106,0.0694
+"('Stomach Adenocarcinoma', 'Indivumed')",0.0252,0.0351,0.00088452,0.0012,0.0348,0.0484
+"('Stomach Adenocarcinoma', 'Greater Poland Cancer Center')",0.0252,0.0201,0.00050652,0.005,0.2463,0.1965
+"('Stomach Adenocarcinoma', 'Barretos Cancer Hospital')",0.0252,0.0107,0.00026964,0.0043,0.3976,0.1688
+"('Stomach Adenocarcinoma', 'UNC')",0.0252,0.0108,0.00027216,0.0002,0.0157,0.0067
+"('Stomach Adenocarcinoma', 'International Genomics Consortium')",0.0252,0.0295,0.0007434,0.0001,0.005,0.0058
+"('Stomach Adenocarcinoma', 'Christiana Healthcare')",0.0252,0.0094,0.00023688,0.0001,0.0057,0.0021
+"('Breast Invasive Carcinoma', 'Duke')",0.0749,0.0302,0.00226198,0.0054,0.1781,0.0718
+"('Breast Invasive Carcinoma', 'MD Anderson')",0.0749,0.0728,0.00545272,0.0011,0.015,0.0145
+"('Breast Invasive Carcinoma', 'Roswell Park')",0.0749,0.0472,0.00353528,0.007,0.1483,0.0934
+"('Breast Invasive Carcinoma', 'Asterand')",0.0749,0.0665,0.00498085,0.0056,0.0835,0.0741
+"('Breast Invasive Carcinoma', 'Fox Chase')",0.0749,0.0082,0.00061418,0.0001,0.0094,0.001
+"('Breast Invasive Carcinoma', 'ILSBIO')",0.0749,0.0158,0.00118342,0.0037,0.2322,0.049
+"('Breast Invasive Carcinoma', 'Indivumed')",0.0749,0.0351,0.00262899,0.0045,0.1287,0.0603
+"('Breast Invasive Carcinoma', 'Greater Poland Cancer Center')",0.0749,0.0201,0.00150549,0.011,0.5459,0.1465
+"('Breast Invasive Carcinoma', 'Walter Reed')",0.0749,0.0078,0.00058422,0.0078,0.9966,0.1038
+"('Breast Invasive Carcinoma', 'UNC')",0.0749,0.0108,0.00080892,0.0004,0.0414,0.006
+"('Breast Invasive Carcinoma', 'Mayo')",0.0749,0.0043,0.00032207,0.0043,1.0046,0.0577
+"('Breast Invasive Carcinoma', 'Cureline')",0.0749,0.01,0.000749,0.0014,0.1409,0.0188
+"('Breast Invasive Carcinoma', 'University of Pittsburgh')",0.0749,0.0743,0.00556507,0.0113,0.1521,0.1509
+"('Breast Invasive Carcinoma', 'International Genomics Consortium')",0.0749,0.0295,0.00220955,0.0012,0.0406,0.016
+"('Breast Invasive Carcinoma', 'Christiana Healthcare')",0.0749,0.0094,0.00070406,0.0011,0.12,0.0151
+"('Breast Invasive Carcinoma', 'UCSF')",0.0749,0.0069,0.00051681,0.0012,0.1696,0.0156
+"('Breast Invasive Carcinoma', 'MSKCC')",0.0749,0.0542,0.00405958,0.004,0.0743,0.0538
+"('Breast Invasive Carcinoma', 'University of Miami')",0.0749,0.0111,0.00083139,0.0039,0.352,0.0522
+"('Adrenocortical Carcinoma', 'Roswell Park')",0.0407,0.0472,0.00192104,0.0002,0.0033,0.0038
+"('Adrenocortical Carcinoma', 'University Health Network')",0.0407,0.0108,0.00043956,0.0033,0.3076,0.0816
+"('Adrenocortical Carcinoma', 'University of Michigan')",0.0407,0.0475,0.00193325,0.0372,0.7837,0.9146
+"('Lung Squamous Cell Carcinoma', 'Roswell Park')",0.1747,0.0472,0.00824584,0.0189,0.4,0.1081
+"('Lung Squamous Cell Carcinoma', 'Asterand')",0.1747,0.0665,0.01161755,0.0184,0.2762,0.1051
+"('Lung Squamous Cell Carcinoma', 'Fox Chase')",0.1747,0.0082,0.00143254,0.004,0.4888,0.0229
+"('Lung Squamous Cell Carcinoma', 'ILSBIO')",0.1747,0.0158,0.00276026,0.0007,0.0422,0.0038
+"('Lung Squamous Cell Carcinoma', 'Indivumed')",0.1747,0.0351,0.00613197,0.0064,0.1831,0.0368
+"('Lung Squamous Cell Carcinoma', 'Mayo Clinic - Rochester')",0.1747,0.0528,0.00922416,0.0181,0.3435,0.1038
+"('Lung Squamous Cell Carcinoma', 'UNC')",0.1747,0.0108,0.00188676,0.0004,0.0356,0.0022
+"('Lung Squamous Cell Carcinoma', 'Cureline')",0.1747,0.01,0.001747,0.0032,0.3238,0.0185
+"('Lung Squamous Cell Carcinoma', 'University of Pittsburgh')",0.1747,0.0743,0.01298021,0.0071,0.0954,0.0406
+"('Lung Squamous Cell Carcinoma', 'International Genomics Consortium')",0.1747,0.0295,0.00515365,0.006,0.2039,0.0344
+"('Lung Squamous Cell Carcinoma', 'Prince Charles Hospital')",0.1747,0.0588,0.01027236,0.032,0.544,0.1831
+"('Lung Squamous Cell Carcinoma', 'Christiana Healthcare')",0.1747,0.0094,0.00164218,0.0013,0.1421,0.0076
+"('Lung Squamous Cell Carcinoma', 'MSKCC')",0.1747,0.0542,0.00946874,0.0114,0.211,0.0655
+"('Lung Squamous Cell Carcinoma', 'Johns Hopkins')",0.1747,0.0983,0.01717301,0.0426,0.4336,0.244
+"('Lung Squamous Cell Carcinoma', 'University of Miami')",0.1747,0.0111,0.00193917,0.0041,0.3673,0.0233
+"('Brain Lower Grade Glioma', 'Huntsman Cancer Institute')",0.047,0.0091,0.0004277,0.0091,0.9972,0.1931
+"('Brain Lower Grade Glioma', 'MD Anderson')",0.047,0.0728,0.0034216,0.0051,0.0705,0.1093
+"('Brain Lower Grade Glioma', 'Case Western')",0.047,0.0081,0.0003807,0.0049,0.607,0.1046
+"('Brain Lower Grade Glioma', 'Henry Ford Hospital')",0.047,0.0154,0.0007238,0.0006,0.0358,0.0117
+"('Brain Lower Grade Glioma', 'Mayo Clinic - Rochester')",0.047,0.0528,0.0024816,0.0062,0.1181,0.1326
+"('Brain Lower Grade Glioma', 'Cureline')",0.047,0.01,0.00047,0.0021,0.2064,0.0439
+"('Brain Lower Grade Glioma', 'Case Western - St Joes')",0.047,0.0165,0.0007755,0.0165,0.9989,0.3507
+"('Brain Lower Grade Glioma', 'University of California San Francisco')",0.047,0.0082,0.0003854,0.0002,0.023,0.004
+"('Brain Lower Grade Glioma', 'MSKCC')",0.047,0.0542,0.0025474,0.0017,0.0308,0.0356
+"('Brain Lower Grade Glioma', 'Johns Hopkins')",0.047,0.0983,0.0046201,0.0006,0.0058,0.0122
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'MD Anderson')",0.0149,0.0728,0.00108472,0.0005,0.0072,0.0354
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Roswell Park')",0.0149,0.0472,0.00070328,0.0002,0.0042,0.0132
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Asterand')",0.0149,0.0665,0.00099085,0.0041,0.061,0.2721
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Cedars Sinai')",0.0149,0.0097,0.00014453,0.0018,0.1877,0.1222
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'ILSBIO')",0.0149,0.0158,0.00023542,0.0004,0.0261,0.0276
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Barretos Cancer Hospital')",0.0149,0.0107,0.00015943,0.0007,0.0691,0.0496
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'BLN - Baylor')",0.0149,0.0147,0.00021903,0.0003,0.0189,0.0186
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'University of North Carolina')",0.0149,0.0106,0.00015794,0.0004,0.0374,0.0266
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'University of Pittsburgh')",0.0149,0.0743,0.00110707,0.0005,0.0067,0.0333
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'International Genomics Consortium')",0.0149,0.0295,0.00043955,0.0004,0.0124,0.0245
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Memorial Sloan Kettering')",0.0149,0.036,0.0005364,0.0012,0.0338,0.0817
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Christiana Healthcare')",0.0149,0.0094,0.00014006,0.0001,0.007,0.0044
+"('Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma', 'Medical College of Wisconsin')",0.0149,0.0071,0.00010579,0.0043,0.6046,0.2881
+"('Testicular Germ Cell Tumors', 'Barretos Cancer Hospital')",0.0187,0.0107,0.00020009,0.001,0.091,0.0521
+"('Testicular Germ Cell Tumors', 'BLN - Baylor')",0.0187,0.0147,0.00027489,0.001,0.071,0.0558
+"('Testicular Germ Cell Tumors', 'University of North Carolina')",0.0187,0.0106,0.00019822,0.0002,0.0225,0.0128
+"('Testicular Germ Cell Tumors', 'International Genomics Consortium')",0.0187,0.0295,0.00055165,0.0002,0.0065,0.0103
+"('Testicular Germ Cell Tumors', 'Erasmus MC')",0.0187,0.0241,0.00045067,0.0163,0.6753,0.8703
+"('Thyroid Carcinoma', 'MD Anderson')",0.0581,0.0728,0.00422968,0.0117,0.1611,0.2018
+"('Thyroid Carcinoma', 'Roswell Park')",0.0581,0.0472,0.00274232,0.0009,0.0182,0.0148
+"('Thyroid Carcinoma', 'Asterand')",0.0581,0.0665,0.00386365,0.0015,0.0228,0.026
+"('Thyroid Carcinoma', 'ILSBIO')",0.0581,0.0158,0.00091798,0.0007,0.0429,0.0117
+"('Thyroid Carcinoma', 'BLN - Baylor')",0.0581,0.0147,0.00085407,0.0007,0.0448,0.0113
+"('Thyroid Carcinoma', 'University of North Carolina')",0.0581,0.0106,0.00061586,0.0009,0.0893,0.0163
+"('Thyroid Carcinoma', 'University of Pittsburgh')",0.0581,0.0743,0.00431683,0.0074,0.1001,0.128
+"('Thyroid Carcinoma', 'International Genomics Consortium')",0.0581,0.0295,0.00171395,0.0019,0.0633,0.0321
+"('Thyroid Carcinoma', 'University Health Network')",0.0581,0.0108,0.00062748,0.0043,0.3996,0.0743
+"('Thyroid Carcinoma', 'Memorial Sloan Kettering')",0.0581,0.036,0.0020916,0.0153,0.4248,0.2632
+"('Thyroid Carcinoma', 'Christiana Healthcare')",0.0581,0.0094,0.00054614,0.0001,0.0061,0.001
+"('Thyroid Carcinoma', 'University of Michigan')",0.0581,0.0475,0.00275975,0.0019,0.0398,0.0325
+"('Thyroid Carcinoma', 'Johns Hopkins')",0.0581,0.0983,0.00571123,0.0102,0.1035,0.1751
+"('Thyroid Carcinoma', 'University of Miami')",0.0581,0.0111,0.00064491,0.0007,0.0638,0.0122
+"('Mesothelioma', 'MD Anderson')",0.0013,0.0728,9.46E-05,0.0003,0.0048,0.2665
+"('Mesothelioma', 'Barretos Cancer Hospital')",0.0013,0.0107,1.39E-05,0.0002,0.0166,0.1362
+"('Mesothelioma', 'University of Pittsburgh')",0.0013,0.0743,9.66E-05,0.0005,0.0064,0.3672
+"('Mesothelioma', 'Memorial Sloan Kettering')",0.0013,0.036,4.68E-05,0.0003,0.0071,0.1955
+"('Sarcoma', 'Roswell Park')",0.0186,0.0472,0.00087792,0.0002,0.0046,0.0116
+"('Sarcoma', 'Fox Chase')",0.0186,0.0082,0.00015252,0.0006,0.0714,0.0315
+"('Sarcoma', 'ILSBIO')",0.0186,0.0158,0.00029388,0.0001,0.0063,0.0054
+"('Sarcoma', 'BLN - Baylor')",0.0186,0.0147,0.00027342,0.001,0.0676,0.0534
+"('Sarcoma', 'University of North Carolina')",0.0186,0.0106,0.00019716,0.0004,0.0331,0.0188
+"('Sarcoma', 'University of Pittsburgh')",0.0186,0.0743,0.00138198,0.0003,0.0039,0.0155
+"('Sarcoma', 'International Genomics Consortium')",0.0186,0.0295,0.0005487,0.0002,0.0059,0.0093
+"('Sarcoma', 'Moffitt Cancer Center')",0.0186,0.0072,0.00013392,0.0015,0.2075,0.0803
+"('Sarcoma', 'Memorial Sloan Kettering')",0.0186,0.036,0.0006696,0.0144,0.4,0.7741
+"('Kidney Chromophobe', 'Harvard')",0.013,0.0103,0.0001339,0.0027,0.2579,0.2043
+"('Kidney Chromophobe', 'MD Anderson')",0.013,0.0728,0.0009464,0.0013,0.018,0.101
+"('Kidney Chromophobe', 'University of North Carolina')",0.013,0.0106,0.0001378,0.0054,0.5125,0.4179
+"('Kidney Chromophobe', 'International Genomics Consortium')",0.013,0.0295,0.0003835,0.0001,0.005,0.0113
+"('Kidney Chromophobe', 'MSKCC')",0.013,0.0542,0.0007046,0.0035,0.0638,0.2659
+"('Uveal Melanoma', 'MD Anderson')",0.0005,0.0728,3.64E-05,0.0005,0.0068,0.9856
+"('Skin Cutaneous Melanoma', 'University of Sydney')",0.0212,0.0073,0.00015476,0.0073,1.0068,0.3467
+"('Skin Cutaneous Melanoma', 'MD Anderson')",0.0212,0.0728,0.00154336,0.0036,0.0496,0.1703
+"('Skin Cutaneous Melanoma', 'Asterand')",0.0212,0.0665,0.0014098,0.0031,0.0463,0.1453
+"('Skin Cutaneous Melanoma', 'Greater Poland Cancer Center')",0.0212,0.0201,0.00042612,0.0014,0.0718,0.0681
+"('Skin Cutaneous Melanoma', 'Essen')",0.0212,0.0034,7.21E-05,0.0034,1.0033,0.1609
+"('Skin Cutaneous Melanoma', 'Cureline')",0.0212,0.01,0.000212,0.0002,0.0193,0.0091
+"('Skin Cutaneous Melanoma', 'University of North Carolina')",0.0212,0.0106,0.00022472,0.0007,0.0625,0.0312
+"('Skin Cutaneous Melanoma', 'University of Pittsburgh')",0.0212,0.0743,0.00157516,0.0012,0.0162,0.0567
+"('Skin Cutaneous Melanoma', 'International Genomics Consortium')",0.0212,0.0295,0.0006254,0.0001,0.0026,0.0036
+"('Skin Cutaneous Melanoma', 'Emory University')",0.0212,0.0091,0.00019292,0.0002,0.0173,0.0074
+"('Thymoma', 'University Health Network')",0.0008,0.0108,8.64E-06,0.0008,0.0781,1.0539
+"('Ovarian Serous Cystadenocarcinoma', 'Roswell Park')",0.0112,0.0472,0.00052864,0.0001,0.0024,0.0103
+"('Ovarian Serous Cystadenocarcinoma', 'Cedars Sinai')",0.0112,0.0097,0.00010864,0.0053,0.5414,0.4689
+"('Ovarian Serous Cystadenocarcinoma', 'Mayo Clinic - Rochester')",0.0112,0.0528,0.00059136,0.0053,0.1003,0.4727
+"('Ovarian Serous Cystadenocarcinoma', 'International Genomics Consortium')",0.0112,0.0295,0.0003304,0.0002,0.0068,0.0179
+"('Ovarian Serous Cystadenocarcinoma', 'Memorial Sloan Kettering')",0.0112,0.036,0.0004032,0.0002,0.0063,0.0203
+"('Ovarian Serous Cystadenocarcinoma', 'Christiana Healthcare')",0.0112,0.0094,0.00010528,0.0001,0.0147,0.0124
+"('Prostate Adenocarcinoma', 'MD Anderson')",0.0273,0.0728,0.00198744,0.0062,0.0852,0.2272
+"('Prostate Adenocarcinoma', 'Roswell Park')",0.0273,0.0472,0.00128856,0.0061,0.1291,0.2232
+"('Prostate Adenocarcinoma', 'Asterand')",0.0273,0.0665,0.00181545,0.0004,0.0057,0.0138
+"('Prostate Adenocarcinoma', 'Fox Chase')",0.0273,0.0082,0.00022386,0.0001,0.0108,0.0032
+"('Prostate Adenocarcinoma', 'Indivumed')",0.0273,0.0351,0.00095823,0.0003,0.0095,0.0123
+"('Prostate Adenocarcinoma', 'BLN - Baylor')",0.0273,0.0147,0.00040131,0.0002,0.016,0.0086
+"('Prostate Adenocarcinoma', 'University of North Carolina')",0.0273,0.0106,0.00028938,0.0002,0.0145,0.0056
+"('Prostate Adenocarcinoma', 'University of Pittsburgh')",0.0273,0.0743,0.00202839,0.0074,0.1,0.272
+"('Prostate Adenocarcinoma', 'International Genomics Consortium')",0.0273,0.0295,0.00080535,0.002,0.068,0.0735
+"('Prostate Adenocarcinoma', 'University of California San Francisco')",0.0273,0.0082,0.00022386,0.0043,0.5291,0.1589
