@@ -21,11 +21,11 @@ This section presents a Python script designed to filter and process TCGA featur
 This case study focuses on calculating the Mutual Information (MI) between cancer types and medical centers and visualizing the data using a heatmap to highlight patterns or relationships between various factors.
 ### **Description**
 
-1. MI.py
+####1. MI.py####
    This Python script computes the Mutual Information (MI) between cancer types and medical centers based on probability data from `probabiities.csv`
 
 2. heatmap.py
-3. This Python script generates a clustered heatmap using the data from `supplementary_material.csv.` The heatmap visualizes relationships between cancer types and medical centers, offering insight into the underlying patterns.
+   This Python script generates a clustered heatmap using the data from `supplementary_material.csv.` The heatmap visualizes relationships between cancer types and medical centers, offering insight into the underlying patterns.
 
 
 
