@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 
-def KimiaNet_Features_Filtering(set_type="train"):
+def KimiaNet_Features_Filtering(set_type):
   feature = list()
   y_feature_center = list()
   y_feature_cancer = list()
@@ -50,7 +50,7 @@ def KimiaNet_Features_Filtering(set_type="train"):
   return feature, y_feature_center, y_feature_cancer
 
 
-# Example usage
-feature, y_feature_center, y_feature_cancer= KimiaNet_Features_Filtering("train")
 
-x_data, x_data_center, x_data_cancer =  KimiaFeatures_dataFilitring (data_set_type,path)
+
+# Example usage
+feature, y_feature_center, y_feature_cancer= KimiaNet_Features_Filtering(set_type = "train")

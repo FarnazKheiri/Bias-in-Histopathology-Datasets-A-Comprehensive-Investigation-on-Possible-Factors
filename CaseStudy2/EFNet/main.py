@@ -1,8 +1,8 @@
 
-from preprocessing import get_labels
-from dataBalancing import balancing
+from CaseStudy2.EFNet.preprocessing import get_labels
+from CaseStudy2.EFNet.dataBalancing import balancing
 import numpy as np
-from EfficientNet import EF_model
+from CaseStudy2.EFNet.EfficientNet import EF_model
 
 # define variables
 
