@@ -57,4 +57,6 @@ test_center_labels = shuffled_balanced_center_labels[training_size+validation_si
 ######################################################################
 
 # Model Training
-trained_model =  EF_model(num_classes, training_data, training_cancer_labels, validation_data, validation_cancer_labels)
+trained_model = EF_model(num_classes, training_data, training_cancer_labels, validation_data, validation_cancer_labels)
+
+

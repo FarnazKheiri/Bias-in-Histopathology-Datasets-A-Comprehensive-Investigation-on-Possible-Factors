@@ -7,6 +7,7 @@ def KimiaNet_Features_Filtering(set_type):
   feature = list()
   y_feature_center = list()
   y_feature_cancer = list()
+  feature_slide_name = list()
 
   path = "/content/drive/MyDrive/KimiaNet Features/AllKimiaPatches"
   dataList = os.listdir(path)
@@ -46,8 +47,9 @@ def KimiaNet_Features_Filtering(set_type):
           feature.append(value)
           y_feature_center.append(label_mc)
           y_feature_cancer.append(label_dis)
+          feature_slide_name.append(name)
 
-  return feature, y_feature_center, y_feature_cancer
+  return feature, y_feature_center, y_feature_cancer, feature_slide_name
 
 
 
