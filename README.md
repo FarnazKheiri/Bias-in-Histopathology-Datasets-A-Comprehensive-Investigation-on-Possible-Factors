@@ -28,6 +28,22 @@ This case study focuses on calculating the Mutual Information (MI) between cance
    This Python script generates a clustered heatmap using the data from `supplementary_material.csv`. The heatmap visualizes relationships between cancer types and medical centers, offering insight into the underlying patterns.
 
 
+## **CaseStudy2: Investigating the Impact of Patching**
+
+### Key Files:
+- **EFNet/**
+  - `EfficientNet.py`: Script to finetune the EfficientNet model for patch-based classification.
+  - `dataBalancing.py`: Methods for balancing data.
+  - `main.py`: Entry point for executing the experiments using EfficientNet.
+  - `preprocessing.py`: Preprocessing steps applied to patches to create subpatches aimed at adopting the input size for EfficientNet.
+
+- **KimiaNet/**
+  - `main.py`: Main script to run the KimiaNet model and related experiments.
+
+- **test_in_test.py**: Code for **Test Case 1**, where the k-NN classifier uses the test set as its own search space for classification, without excluding co-slide patches.
+
+- **test_in_train.py**: Code for **Test Case 2**, where the k-NN classifier uses the training set as the search space for test samples.
+- **excluded_test_in_test.py**: Code for **Test Case 3**, where co-slide patches are excluded during the k-NN classification process.
 
 
 
