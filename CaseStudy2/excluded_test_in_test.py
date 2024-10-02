@@ -1,6 +1,7 @@
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 from sklearn import metrics
+import pandas as pd
 
 
 def excluded_test_in_train(k,test_features,test_labels,test_slide_names):
@@ -10,6 +11,11 @@ def excluded_test_in_train(k,test_features,test_labels,test_slide_names):
 
     predicted_test_labels = [None] * len(test_features)
     unique_test_slide_names = np.unique(test_slide_names)
+
+    # Create an empty DataFrame for storing neighbors in size len(test_features)*k
+    patch_neighbors_mat_in_center_classification_frame = pd.DataFrame(
+        np.ones((len(test_features), k)) * -1
+    )
 
     # Loop through unique slide names
     for i, slide in enumerate(unique_test_slide_names):
@@ -32,6 +38,11 @@ def excluded_test_in_train(k,test_features,test_labels,test_slide_names):
         # Predict labels for all test samples in the current slide at once
         y_pred = classifier.predict(tst)
 
+        # Find neighbors for the test samples
+        neighbors = classifier.kneighbors(tst, return_distance=False)
+
+        for idx in range(len(SlIndex)):
+            patch_neighbors_mat_in_center_classification_frame.iloc[SlIndex[idx]] = cancer_temple[neighbors[idx]]
 
         for idx, lbl in zip(SlIndex, y_pred):
             predicted_test_labels[idx] = lbl
@@ -40,3 +51,6 @@ def excluded_test_in_train(k,test_features,test_labels,test_slide_names):
     acc = metrics.accuracy_score(test_labels, predicted_test_labels)
 
     return acc
+
+
+
