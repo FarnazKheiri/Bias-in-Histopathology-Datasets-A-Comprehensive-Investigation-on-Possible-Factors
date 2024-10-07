@@ -1,6 +1,7 @@
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
 from sklearn import metrics
+from sklearn.model_selection import LeaveOneOut, cross_val_predict
 
 
 
@@ -28,6 +29,38 @@ def test_in_test(k , features , labels):
 
         predicted_labels[i] = predicted_label
 
+        acc = metrics.accuracy_score(labels,predicted_labels)
+    return acc
+
+
+def test_in_test(k , features , labels):
+    classifier = KNeighborsClassifier(n_neighbors=k, algorithm='kd_tree')
+
+
+    # Fit the classifier once on the entire dataset
+    classifier.fit(features, labels)
+
+
+    # Initialize LeaveOneOut cross-validation
+    loo = LeaveOneOut()
+
+    predicted_labels = np.empty(len(features), dtype=object)
+
+    # LeaveOneOut iteration
+    for train_index, test_index in loo.split(features):
+        print(test_index[0])
+
+        # Get train and test data according to LeaveOneOut
+
+        x_train, x_test_loo = np.array(features)[train_index], np.array(features)[test_index]
+        y_train = np.array(labels)[train_index]
+
+        # Predict the test sample
+        label_pred = classifier.predict(x_test_loo)
+
+
+        # Store the prediction
+        predicted_labels[test_index[0]] = label_pred
         acc = metrics.accuracy_score(labels,predicted_labels)
     return acc
 
