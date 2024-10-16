@@ -48,3 +48,14 @@ This case study focuses on calculating the Mutual Information (MI) between cance
 
 ## **CaseStudy3: Existence of Site-specific Patterns In Cancer-based Features**
 Using this section, the contribution of each cancer type in the biased desion-making process could be reported. 
+
+## **CaseStudy4: Stain Effect Investigation**
+The code explores how converting images to grayscale and adding random noise to RGB channels influences the model's ability to generalize, particularly in mitigating site-specific stains and potential biases asied from various staining procedure.
+### The following Python functions are included for image processing:
+
+- `convert_to_grayscale()`: Converts RGB images to grayscale.
+- `clip()`: Ensures pixel intensity values stay within valid bounds.
+- `random()`: Generates random noise values within a given range to inject into the RGB channels.
+- `train_efficientnet()`: Trains EfficientNet on both RGB and grayscale datasets.
+- `evaluate_accuracy()`: Evaluates cancer and center identification accuracy.
+
