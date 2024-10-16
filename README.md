@@ -47,4 +47,4 @@ This case study focuses on calculating the Mutual Information (MI) between cance
 
 
 ## **CaseStudy3: Existence of Site-specific Patterns In Cancer-based Features**
-Using this section, the contribution of each cancer type in the biased desion-making process would be appeared. 
+Using this section, the contribution of each cancer type in the biased desion-making process could be reported. 
