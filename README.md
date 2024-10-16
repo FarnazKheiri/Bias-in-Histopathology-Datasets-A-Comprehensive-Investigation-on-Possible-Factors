@@ -46,4 +46,5 @@ This case study focuses on calculating the Mutual Information (MI) between cance
 - **excluded_test_in_test.py**: Code for **Test Case 3**, where co-slide patches are excluded during the k-NN classification process.
 
 
-
+## **CaseStudy3: Existence of Site-specific Patterns In Cancer-based Features**
+Using this section, the contribution of each cancer type in the biased desion-making process would be appeared. 
