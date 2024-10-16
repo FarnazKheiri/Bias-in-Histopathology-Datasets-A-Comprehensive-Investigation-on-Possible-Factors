@@ -56,6 +56,5 @@ The code explores how converting images to grayscale and adding random noise to 
 - `convert_to_grayscale()`: Converts RGB images to grayscale.
 - `clip()`: Ensures pixel intensity values stay within valid bounds.
 - `random()`: Generates random noise values within a given range to inject into the RGB channels.
-- `train_efficientnet()`: Trains EfficientNet on both RGB and grayscale datasets.
-- `evaluate_accuracy()`: Evaluates cancer and center identification accuracy.
+
 
