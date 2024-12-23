@@ -3,7 +3,7 @@
 ## **KimiaNet Feature Filtering**
 
 This section presents a Python script designed to filter and process TCGA features extracted by KimiaNet for **training**, **testing**, or **validation** purposes. The script filters the dataset based on the number of slides contributed by each medical center and processes only those centers that contribute more than **40 slides**. The features for each slide are loaded from pre-saved **pickle** files.
-
+- The dataset is publicly vailable in "https://tizhoosh.com/labs/kimia-lab/data-and-code/". 
 - The final dataset includes **patches** originating from **38 acquisition sites**, covering **29 different cancer types**.
 
 ### **Description**
