@@ -9,7 +9,7 @@ from CaseStudy2.excluded_test_in_test import excluded_test_in_train
 
 # define variables
 
-data_root = "C:/Users/kheir/Downloads/Shortcut_Learning/data_set"
+data_root = "./data_set"
 total_slides= 100
 selected_centers_dic = {"Johns Hopkins": total_slides, "Asterand": total_slides, "Indivumed": total_slides, "Roswell Park": total_slides}
 cancers = ["Lung Squamous Cell Carcinoma", "Lung Adenocarcinoma"]
